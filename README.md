@@ -38,3 +38,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadalshorman&" alt="mohammadalshorman" /></p>
 
 <p><img align="center" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/flames.gif" alt="mohammadalshorman" /></p>
+
+
+### 😎 Let's Collaborate!
+
+If you are looking to collaborate on a project, contribute to open-source, or simply discuss tech ideas, feel free to reach out! I’m always excited to connect with like-minded developers and professionals.
