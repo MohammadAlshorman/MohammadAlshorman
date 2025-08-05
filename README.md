@@ -1,45 +1,104 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadalshorman&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadalshorman" /> </p><h1 align="center">Hi 👋, I'm Mohammad Alshorman</h1>
-<h3 align="left">Enthusiastic Full-Stack developer, holds a Bachelor's degree in Software Engineering from Al Hussein Bin Talal University. I have experience in developing applications and websites using the latest technologies, and I always strive to provide innovative software solutions.</h3>
-<hr>
-<img  src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/welcome-header.gif" alt="mohammadalshorman" align="center" />
-<hr>
-<p>I Love ❤️ Code <img  src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" alt="mohammadalshorman"  /></p>
-<hr>
-
-<p align="left"> <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/under-construction.gif" alt="mohammadalshorman" /> </p>
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadalshorman" alt="mohammadalshorman" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://mohammadportfolio-eta.vercel.app/](https://mohammadportfolio-eta.vercel.app/)
-
-- 📫 How to reach me <a href="mhmdshhadhalshrman95@gmail.com">mhmdshhadhalshrman95@gmail.com</a>
-
-- 📄 Know about my experiences [upon request](upon request)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-al-shorman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-al-shorman/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/mohammad.shehadeh.alshorman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/mohammad.shehadeh.alshorman" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadalshorman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/y3tevwahsg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/y3tevwahsg" /></a></p><br><br>
+<h1 align="center">Hi 👋, I'm Mohammad Alshorman</h1>
 
+<h3 align="center">Full-Stack Web Developer | Software Engineer | Tech Enthusiast</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadalshorman&show_icons=true&locale=en&layout=compact" alt="mohammadalshorman" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadalshorman&show_icons=true&locale=en" alt="mohammadalshorman" /></p>
+🎓 **Bachelor's Degree in Software Engineering** from Al-Hussein Bin Talal University  
+👨‍💻 Full Stack Developer with 900+ hours of intensive training at **Orange Coding Academy**  
+💡 Passionate about building scalable web solutions and solving real-world problems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadalshorman&" alt="mohammadalshorman" /></p>
+---
 
-<p><img align="center" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/flames.gif" alt="mohammadalshorman" /></p>
+## 🔧 Tech Stack
 
+**Frontend:**
+- HTML, CSS, Bootstrap
+- JavaScript, TypeScript
+- Angular
 
-### 😎 Let's Collaborate!
+**Backend:**
+- ASP.NET Core (MVC & Web API)
+- Node.js, PHP, C++
 
-If you are looking to collaborate on a project, contribute to open-source, or simply discuss tech ideas, feel free to reach out! I’m always excited to connect with like-minded developers and professionals.
+**Databases:**
+- SQL Server, MySQL
+
+**Tools & Practices:**
+- Git, GitHub, Visual Studio, VS Code
+- Trello, Jira, Figma, Notion
+- Agile & Scrum Methodologies
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Law Firm Management System](https://github.com/MohammadAlshorman/Graduation-project-Law-Office-Management-System-)
+> A robust, secure, and bilingual system for managing law firms  
+`ASP.NET Core MVC | SQL Server | Entity Framework | SweetAlert2 | SMTP`
+
+---
+
+### 🔹 [HR Management System](https://github.com/MohammadAlshorman/HR-Management-System)
+> Manage employees, attendance, tasks, and reporting via role-based dashboards  
+`ASP.NET Core MVC | SQL | C# | PDF Export | Voice Search`
+
+---
+
+### 🔹 [E-Commerce Sweet Shop](https://github.com/MohammadAlshorman/E-commerce)
+> A responsive online sweet shop with admin/user dashboards and payment integration  
+`Angular | Bootstrap | HTML/CSS | TypeScript`
+
+---
+
+### 🔹 [NutriNation AI Advisor](https://github.com/MohammadAlshorman/NutriNation.github.io/tree/Alpha-Release)
+> AI-based nutrition and diet advisor with meal tracking and calorie calculator  
+`HTML | CSS | JavaScript | PHP | MySQL | OpenAI API`
+
+---
+
+### 🔹 [Al-Mazar Municipality Website](https://mazar.gov.jo/)
+> Governmental website to facilitate digital public services and community updates
+
+---
+
+## 🧠 Soft Skills
+
+- Team Collaboration
+- Leadership & Time Management
+- Problem-Solving & Critical Thinking
+- Effective Communication
+- Agile Project Roles: Scrum Master, Product Owner
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [mhmdshhadhalshrman95@gmail.com](mailto:mhmdshhadhalshrman95@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mohammad-al-shorman](https://www.linkedin.com/in/mohammad-al-shorman/)
+- 🧑‍💻 GitHub: [github.com/MohammadAlshorman](https://github.com/MohammadAlshorman)
+- 🌐 Portfolio: [mohammadportfolio-eta.vercel.app](https://mohammadportfolio-eta.vercel.app)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadalshorman&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadalshorman" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadalshorman&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/flames.gif" width="300" alt="Thanks for visiting!" />
+</p>
