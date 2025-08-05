@@ -1,104 +1,128 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadalshorman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammadalshorman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammad Alshorman</h1>
+<h1 align="center">👋 Hi, I'm Mohammad Alshorman</h1>
+<h3 align="center">💻 Full Stack Web Developer | 🎓 Software Engineer | 🌍 Based in Jordan</h3>
 
-<h3 align="center">Full-Stack Web Developer | Software Engineer | Tech Enthusiast</h3>
-
----
-
-🎓 **Bachelor's Degree in Software Engineering** from Al-Hussein Bin Talal University  
-👨‍💻 Full Stack Developer with 900+ hours of intensive training at **Orange Coding Academy**  
-💡 Passionate about building scalable web solutions and solving real-world problems
-
----
-
-## 🔧 Tech Stack
-
-**Frontend:**
-- HTML, CSS, Bootstrap
-- JavaScript, TypeScript
-- Angular
-
-**Backend:**
-- ASP.NET Core (MVC & Web API)
-- Node.js, PHP, C++
-
-**Databases:**
-- SQL Server, MySQL
-
-**Tools & Practices:**
-- Git, GitHub, Visual Studio, VS Code
-- Trello, Jira, Figma, Notion
-- Agile & Scrum Methodologies
+<p align="center">
+  <a href="https://mohammadportfolio-eta.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:mhmdshhadhalshrman95@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/mohammad-al-shorman/" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/MohammadAlshorman" target="_blank">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 About Me
 
-### 🔹 [Law Firm Management System](https://github.com/MohammadAlshorman/Graduation-project-Law-Office-Management-System-)
-> A robust, secure, and bilingual system for managing law firms  
-`ASP.NET Core MVC | SQL Server | Entity Framework | SweetAlert2 | SMTP`
-
----
-
-### 🔹 [HR Management System](https://github.com/MohammadAlshorman/HR-Management-System)
-> Manage employees, attendance, tasks, and reporting via role-based dashboards  
-`ASP.NET Core MVC | SQL | C# | PDF Export | Voice Search`
+🔹 I'm a **results-driven Full Stack Developer** with a Bachelor's degree in Software Engineering from **Al-Hussein Bin Talal University**.  
+🔹 Graduated from **Orange Coding Academy** after 900+ hours of intensive training in modern web technologies.  
+🔹 Experienced in building dynamic, scalable, and secure web applications using **ASP.NET Core**, **Angular**, **SQL**, and more.  
+🔹 Passionate about clean code, Agile teamwork, and solving real-world problems through technology.
 
 ---
 
-### 🔹 [E-Commerce Sweet Shop](https://github.com/MohammadAlshorman/E-commerce)
-> A responsive online sweet shop with admin/user dashboards and payment integration  
-`Angular | Bootstrap | HTML/CSS | TypeScript`
+## 🛠️ Tech Stack
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
+
+**Backend**  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
+
+**Databases**  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+
+**Tools & Workflow**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 
 ---
 
-### 🔹 [NutriNation AI Advisor](https://github.com/MohammadAlshorman/NutriNation.github.io/tree/Alpha-Release)
-> AI-based nutrition and diet advisor with meal tracking and calorie calculator  
-`HTML | CSS | JavaScript | PHP | MySQL | OpenAI API`
+## 📌 Featured Projects
+
+### 🔸 [Graduation Project - Law Firm Management System](https://github.com/MohammadAlshorman/Graduation-project-Law-Office-Management-System-)
+> End-to-end management system for law firms  
+**Stack:** ASP.NET Core MVC, EF, SQL Server, Bootstrap, SMTP, Razor Views, Leaflet.js, SweetAlert2
 
 ---
 
-### 🔹 [Al-Mazar Municipality Website](https://mazar.gov.jo/)
-> Governmental website to facilitate digital public services and community updates
+### 🔸 [HR Management System](https://github.com/MohammadAlshorman/HR-Management-System)
+> Full-featured HR system with attendance, tasks, and roles  
+**Stack:** ASP.NET Core MVC, SQL Server, JavaScript, Bootstrap  
+**Role:** Scrum Master & Developer
+
+---
+
+### 🔸 [E-Commerce Sweet Shop](https://github.com/MohammadAlshorman/E-commerce)
+> Online store with payment gateway, vouchers, multilingual UI  
+**Stack:** Angular, TypeScript, HTML/CSS, Bootstrap  
+**Role:** Scrum Team Lead
+
+---
+
+### 🔸 [NutriNation - AI Nutrition Advisor](https://github.com/MohammadAlshorman/NutriNation.github.io/tree/Alpha-Release)
+> ChatGPT-powered nutrition web app with calorie tracking  
+**Stack:** PHP, JavaScript, MySQL, OpenAI API
+
+---
+
+### 🔸 [Municipality Website](https://mazar.gov.jo/)
+> Live site for Al-Mazar Municipality with public service portal
+
+---
+
+## 💼 Experience
+
+- **🧑‍💻 Full Stack Intern @ Nabtaty** *(May 2025 – June 2025)*  
+  Built features using Angular + .NET Core Web API
+
+- **👨‍🎓 Full Stack Trainee @ Orange Coding Academy** *(Dec 2024 – May 2025)*  
+  10+ projects, roles included Developer, Scrum Master, PO
+
+- **💡 Intern @ Yarmouk Water Company** *(Oct 2023 – Jan 2024)*  
+  Real-world web app development using ASP.NET and SQL Server
 
 ---
 
 ## 🧠 Soft Skills
 
-- Team Collaboration
-- Leadership & Time Management
-- Problem-Solving & Critical Thinking
-- Effective Communication
-- Agile Project Roles: Scrum Master, Product Owner
+- ✅ Agile & Scrum
+- ✅ Team Leadership
+- ✅ Problem-Solving & Critical Thinking
+- ✅ Communication & Collaboration
+- ✅ Time Management & Adaptability
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
-- 📧 Email: [mhmdshhadhalshrman95@gmail.com](mailto:mhmdshhadhalshrman95@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/mohammad-al-shorman](https://www.linkedin.com/in/mohammad-al-shorman/)
-- 🧑‍💻 GitHub: [github.com/MohammadAlshorman](https://github.com/MohammadAlshorman)
-- 🌐 Portfolio: [mohammadportfolio-eta.vercel.app](https://mohammadportfolio-eta.vercel.app)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadalshorman&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadalshorman" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadalshorman&layout=compact" alt="Top Languages" />
-</p>
+- 📩 **Email:** [mhmdshhadhalshrman95@gmail.com](mailto:mhmdshhadhalshrman95@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/mohammad-al-shorman](https://www.linkedin.com/in/mohammad-al-shorman/)  
+- 🐙 **GitHub:** [github.com/MohammadAlshorman](https://github.com/MohammadAlshorman)  
+- 🌍 **Portfolio:** [mohammadportfolio-eta.vercel.app](https://mohammadportfolio-eta.vercel.app/)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/flames.gif" width="300" alt="Thanks for visiting!" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadalshorman&show_icons=true&locale=en" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadalshorman" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalshorman&layout=compact" alt="top languages" />
 </p>
