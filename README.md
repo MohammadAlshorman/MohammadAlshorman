@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadalshorman&label=Profile%20views&color=0e75b6&style=plastic"
+       alt="Profile views" title="Profile views" />
+</p>
+
 <!-- HEADER ANIMATION -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Hi,%20I'm%20Mohammad%20Alshorman!&fontSize=30&fontAlignY=40&animation=twinkling" />
